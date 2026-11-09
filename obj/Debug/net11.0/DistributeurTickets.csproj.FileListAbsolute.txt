@@ -1,0 +1,16 @@
+C:\Users\oc\Downloads\C# et .NET\DistributeurTickets\obj\Debug\net11.0\DistributeurTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oc\Downloads\C# et .NET\DistributeurTickets\obj\Debug\net11.0\DistributeurTickets.AssemblyInfoInputs.cache
+C:\Users\oc\Downloads\C# et .NET\DistributeurTickets\obj\Debug\net11.0\DistributeurTickets.AssemblyInfo.cs
+C:\Users\oc\Downloads\C# et .NET\DistributeurTickets\obj\Debug\net11.0\DistributeurTickets.csproj.CoreCompileInputs.cache
+C:\Users\oc\Downloads\C# et .NET\DistributeurTickets\bin\Debug\net11.0\DistributeurTickets.exe
+C:\Users\oc\Downloads\C# et .NET\DistributeurTickets\bin\Debug\net11.0\DistributeurTickets.deps.json
+C:\Users\oc\Downloads\C# et .NET\DistributeurTickets\bin\Debug\net11.0\DistributeurTickets.runtimeconfig.json
+C:\Users\oc\Downloads\C# et .NET\DistributeurTickets\bin\Debug\net11.0\DistributeurTickets.runtimeconfig.dev.json
+C:\Users\oc\Downloads\C# et .NET\DistributeurTickets\bin\Debug\net11.0\DistributeurTickets.dll
+C:\Users\oc\Downloads\C# et .NET\DistributeurTickets\bin\Debug\net11.0\DistributeurTickets.pdb
+C:\Users\oc\Downloads\C# et .NET\DistributeurTickets\obj\Debug\net11.0\DistributeurTickets.dll
+C:\Users\oc\Downloads\C# et .NET\DistributeurTickets\obj\Debug\net11.0\refint\DistributeurTickets.dll
+C:\Users\oc\Downloads\C# et .NET\DistributeurTickets\obj\Debug\net11.0\DistributeurTickets.pdb
+C:\Users\oc\Downloads\C# et .NET\DistributeurTickets\obj\Debug\net11.0\DistributeurTickets.genruntimeconfig.cache
+C:\Users\oc\Downloads\C# et .NET\DistributeurTickets\obj\Debug\net11.0\ref\DistributeurTickets.dll
+C:\Users\oc\Downloads\C# et .NET\DistributeurTickets\obj\Debug\net11.0\Distribu.4FB78F40.Up2Date
